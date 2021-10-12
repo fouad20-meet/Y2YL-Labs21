@@ -34,5 +34,5 @@ In this lab, you will help an astronaut to login using his username and password
 
 
 ## Bonus:
-   - Add CSS and JS to your project. (Design it)
+   - Add CSS and JS to your website. (Design it)
 
